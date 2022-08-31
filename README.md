@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patricio</h1>
 <h3 align="center">A passionate full stack developer based in Barcelona</h3>
 
-- 🔭 I’m currently working on [Gasho](https://github.com/Blarsamio/gasho)
+- 🔭 I’m currently working with [Metarina]
 
 - 🌱 I’m currently learning **ReactJS & TypeScript**
 
